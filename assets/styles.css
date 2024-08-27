@@ -1,0 +1,15 @@
+img{
+    width: 200px;
+    height: 400px;
+}
+
+.container, footer{
+    margin-bottom: 30px;
+}
+
+@media(max-width:600px){
+    footer{
+        text-align: center;
+    }
+}
+
